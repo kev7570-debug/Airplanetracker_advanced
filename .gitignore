@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Конфигурация базы данных
+database.ini
+*.ini
+
+# Windows
+Thumbs.db
+Desktop.ini
